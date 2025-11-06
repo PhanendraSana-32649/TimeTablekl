@@ -266,7 +266,7 @@ export default function Home() {
             className="secondary full-width-mobile"
             style={{ marginTop: "20px" }}
           >
-            Where's Maddy? 👥
+            Where's Maddy?? 👥
           </button>
 
           <button 
